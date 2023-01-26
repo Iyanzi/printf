@@ -1,7 +1,5 @@
 Tasks
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+0.
 Write a function that produces output according to a format.
 
 Prototype: int _printf(const char *format, ...);
@@ -39,9 +37,7 @@ b: the unsigned int argument is converted to binary
 3. What one has not experienced, one will never understand in print
 #advanced
 Score: 0.0% (Checks completed: 0.0%)
-Handle the following conversion specifiers:
-
-u
+Handle the fo
 o
 x
 X
